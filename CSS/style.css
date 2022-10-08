@@ -9,4 +9,12 @@ body{
 
 .titulo{
     background-color: aliceblue;
+    background-color: aliceblue;
+    display:flex;
+    padding: 20px 30px;
+    left: 0;
+    right: 0;
+    margin: 0;
+    align-items: center;
+    justify-content: space-between;
 }
