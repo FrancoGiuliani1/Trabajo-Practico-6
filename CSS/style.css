@@ -35,5 +35,6 @@ li{
     font-size: 17px;
      list-style-type: none;
      font-family: 'Times New Roman', Times, serif;
-
+     line-height: 20px;
+     margin: 20px;
  }
