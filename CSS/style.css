@@ -24,3 +24,9 @@ body{
     height: 80;
     padding: 0  50px;
 }
+
+ul{
+    font-size: 30px;
+    list-style-type: none;
+    font-family:sans-serif ;
+}
