@@ -25,3 +25,8 @@ input{
 .calculo{
     padding: 10px;
 }
+button{
+    padding: 4px;
+    border-radius: 3px;
+    border-color: slategray;
+}
