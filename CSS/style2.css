@@ -18,3 +18,7 @@ header{
 label{
     font-size: 18px;
 }
+input{
+    padding: 5px;
+    margin: 3px;
+}
